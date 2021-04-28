@@ -37,3 +37,11 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Training file with images
+Training
+
+# Validation file with images
+Validation
+
+
